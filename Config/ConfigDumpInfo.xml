@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.6">
+	<ConfigVersions>
+		<Metadata name="CommonModule.РаботаСAccessВызовСервера" id="073e4ab0-635f-4cd0-b036-2bed9b639516" configVersion="5be2c7deea0e404e945f7821f85bdfb200000000"/>
+		<Metadata name="CommonModule.РаботаСAccessВызовСервера.Module" id="073e4ab0-635f-4cd0-b036-2bed9b639516.0" configVersion="9f970a0286ab2c4ba2402a89c20489a900000000"/>
+		<Metadata name="CommonModule.РаботаСAccessКлиентСервер" id="cde6b54e-2747-4523-9c40-9d9466f04bad" configVersion="5b3d1f61a55e1f45ab680d8ea395e07400000000"/>
+		<Metadata name="CommonModule.РаботаСAccessКлиентСервер.Module" id="cde6b54e-2747-4523-9c40-9d9466f04bad.0" configVersion="95538886dfa78e43a57bd0803e248b7e00000000"/>
+		<Metadata name="CommonModule.РаботаСAccessНаКлиенте" id="bbc78c47-3438-4c41-970f-b89d4184a5c9" configVersion="0e19df09a1dc114cae6c2ab756bba57f00000000"/>
+		<Metadata name="CommonModule.РаботаСAccessНаКлиенте.Module" id="bbc78c47-3438-4c41-970f-b89d4184a5c9.0" configVersion="4177853dac55164a9ee577f036d703b200000000"/>
+		<Metadata name="CommonModule.РаботаСAccessСервер" id="de9ec25d-25cd-4695-bbfe-3177bd9a61b0" configVersion="7b8567288c9c9f469f5f93875f4c2d1700000000"/>
+		<Metadata name="CommonModule.РаботаСAccessСервер.Module" id="de9ec25d-25cd-4695-bbfe-3177bd9a61b0.0" configVersion="13ed7f4290675a4788622dc36f2c8ddf00000000"/>
+		<Metadata name="CommonModule.РаботаСAccessСлужебныйКлиентСервер" id="fbfa09bc-4f69-4c29-970a-7d39d8fd0a5c" configVersion="adb8cea1a80e044783991573d099102700000000"/>
+		<Metadata name="CommonModule.РаботаСAccessСлужебныйКлиентСервер.Module" id="fbfa09bc-4f69-4c29-970a-7d39d8fd0a5c.0" configVersion="8c79de98ccdb5b47848b6559a492bf0b00000000"/>
+		<Metadata name="CommonTemplate.ШаблонПустойБазыAccess" id="dd3d53d6-0ccc-4e82-a1a5-ed93926853f0" configVersion="04077519cf33d249ac902f6f6014998700000000"/>
+		<Metadata name="CommonTemplate.ШаблонПустойБазыAccess.Template" id="dd3d53d6-0ccc-4e82-a1a5-ed93926853f0.0" configVersion="bfa8bc3afc1aee40ae2cf02933ea796a00000000"/>
+		<Metadata name="Configuration.ПомощникРаботыMSOffice" id="c9fbf222-ece8-453b-a154-f43a13f871ba" configVersion="1970b412bffbe0489a333d9be754fa6200000000"/>
+		<Metadata name="DataProcessor.ВыгрузкаДанныхВAccess" id="cd40328d-af38-4e82-a865-60696ca1d5c1" configVersion="b246dea1051d9e4ebe499ad9715c4b7200000000"/>
+		<Metadata name="DataProcessor.ВыгрузкаДанныхВAccess.Form.ВыгрузкаДанныхВAccess" id="44c871f0-930d-47f5-bd2c-55377f22baa1" configVersion="2882c249d6154c4cae42c5003ac5dbe900000000"/>
+		<Metadata name="DataProcessor.ВыгрузкаДанныхВAccess.Form.ВыгрузкаДанныхВAccess.Form" id="44c871f0-930d-47f5-bd2c-55377f22baa1.0" configVersion="5b0da0ba279ae14bac2de2ffd4a5619c00000000"/>
+		<Metadata name="Language.Русский" id="c186a30e-eb50-439a-9b23-e7df54cd76c3" configVersion="c6193717ffaa4543be40bdc3ce4d0aa500000000"/>
+		<Metadata name="Subsystem.РаботаСAccess" id="0f9469c1-f555-457c-bdb8-34989e867501" configVersion="9057fad4c705a6498f3e57db71ae693200000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

@@ -28,11 +28,11 @@
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
-			<Name>ПомощникРаботыAccess</Name>
+			<Name>ПомощникРаботыMSOffice</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Помощник работы Access</v8:content>
+					<v8:content>Помощник работы MS Office</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -45,7 +45,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor/>
-			<Version>1.0</Version>
+			<Version>1.0.0.1</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
@@ -127,19 +127,22 @@
 			<ConfigurationInformationAddress/>
 			<DataLockControlMode>Managed</DataLockControlMode>
 			<ObjectAutonumerationMode>NotAutoFree</ObjectAutonumerationMode>
-			<ModalityUseMode>DontUse</ModalityUseMode>
-			<SynchronousPlatformExtensionAndAddInCallUseMode>DontUse</SynchronousPlatformExtensionAndAddInCallUseMode>
+			<ModalityUseMode>Use</ModalityUseMode>
+			<SynchronousPlatformExtensionAndAddInCallUseMode>Use</SynchronousPlatformExtensionAndAddInCallUseMode>
 			<InterfaceCompatibilityMode>Taxi</InterfaceCompatibilityMode>
 			<CompatibilityMode>Version8_3_12</CompatibilityMode>
 			<DefaultConstantsForm/>
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>РаботаСAccess</Subsystem>
 			<CommonTemplate>ШаблонПустойБазыAccess</CommonTemplate>
 			<CommonModule>РаботаСAccessНаКлиенте</CommonModule>
 			<CommonModule>РаботаСAccessКлиентСервер</CommonModule>
 			<CommonModule>РаботаСAccessСервер</CommonModule>
 			<CommonModule>РаботаСAccessВызовСервера</CommonModule>
+			<CommonModule>РаботаСAccessСлужебныйКлиентСервер</CommonModule>
+			<DataProcessor>ВыгрузкаДанныхВAccess</DataProcessor>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
