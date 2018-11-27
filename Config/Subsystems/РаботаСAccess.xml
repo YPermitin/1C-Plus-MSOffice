@@ -22,6 +22,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.РаботаСAccessВызовСервера</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.РаботаСAccessСлужебныйКлиентСервер</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonTemplate.ШаблонПустойБазыAccess</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.ВыгрузкаРезультатаКомпоновки</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

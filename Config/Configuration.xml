@@ -45,7 +45,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor/>
-			<Version>1.0.0.1</Version>
+			<Version>1.0.0.2</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
@@ -142,6 +142,7 @@
 			<CommonModule>РаботаСAccessСервер</CommonModule>
 			<CommonModule>РаботаСAccessВызовСервера</CommonModule>
 			<CommonModule>РаботаСAccessСлужебныйКлиентСервер</CommonModule>
+			<Report>ВыгрузкаРезультатаКомпоновки</Report>
 			<DataProcessor>ВыгрузкаДанныхВAccess</DataProcessor>
 		</ChildObjects>
 	</Configuration>
