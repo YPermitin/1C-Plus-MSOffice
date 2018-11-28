@@ -3,12 +3,12 @@
 	<ConfigVersions>
 		<Metadata name="CommonModule.РаботаСAccessВызовСервера" id="073e4ab0-635f-4cd0-b036-2bed9b639516" configVersion="e372ed64967a644bbf9e10dac85f463800000000"/>
 		<Metadata name="CommonModule.РаботаСAccessВызовСервера.Module" id="073e4ab0-635f-4cd0-b036-2bed9b639516.0" configVersion="c3322015d2961f498b0bfd1dec451bca00000000"/>
-		<Metadata name="CommonModule.РаботаСAccessКлиентСервер" id="cde6b54e-2747-4523-9c40-9d9466f04bad" configVersion="4ec0b10e192df7438714660ffcebeee600000000"/>
-		<Metadata name="CommonModule.РаботаСAccessКлиентСервер.Module" id="cde6b54e-2747-4523-9c40-9d9466f04bad.0" configVersion="004de8dc3ec45a42bddf3b29bd414df700000000"/>
+		<Metadata name="CommonModule.РаботаСAccessКлиентСервер" id="cde6b54e-2747-4523-9c40-9d9466f04bad" configVersion="032cafd50c7dd34095983e4f58b2d05000000000"/>
+		<Metadata name="CommonModule.РаботаСAccessКлиентСервер.Module" id="cde6b54e-2747-4523-9c40-9d9466f04bad.0" configVersion="b13fa47857c11d43b7500d9513be11b500000000"/>
 		<Metadata name="CommonModule.РаботаСAccessНаКлиенте" id="bbc78c47-3438-4c41-970f-b89d4184a5c9" configVersion="0e19df09a1dc114cae6c2ab756bba57f00000000"/>
 		<Metadata name="CommonModule.РаботаСAccessНаКлиенте.Module" id="bbc78c47-3438-4c41-970f-b89d4184a5c9.0" configVersion="4177853dac55164a9ee577f036d703b200000000"/>
-		<Metadata name="CommonModule.РаботаСAccessСервер" id="de9ec25d-25cd-4695-bbfe-3177bd9a61b0" configVersion="e9b82161310ac94dafb0c25eeaeb93f600000000"/>
-		<Metadata name="CommonModule.РаботаСAccessСервер.Module" id="de9ec25d-25cd-4695-bbfe-3177bd9a61b0.0" configVersion="acc3d497d9fc394f9ae2d861f80b8afc00000000"/>
+		<Metadata name="CommonModule.РаботаСAccessСервер" id="de9ec25d-25cd-4695-bbfe-3177bd9a61b0" configVersion="d3a16b461f129d42a8dddd6806c9e74900000000"/>
+		<Metadata name="CommonModule.РаботаСAccessСервер.Module" id="de9ec25d-25cd-4695-bbfe-3177bd9a61b0.0" configVersion="5a8a631346a0324da8b91d84b5964b3e00000000"/>
 		<Metadata name="CommonModule.РаботаСAccessСлужебныйКлиентСервер" id="fbfa09bc-4f69-4c29-970a-7d39d8fd0a5c" configVersion="a29fd420911be54396d9476f8af8216100000000"/>
 		<Metadata name="CommonModule.РаботаСAccessСлужебныйКлиентСервер.Module" id="fbfa09bc-4f69-4c29-970a-7d39d8fd0a5c.0" configVersion="eab666618eacba4899d62ff55e732c4400000000"/>
 		<Metadata name="CommonTemplate.ШаблонПустойБазыAccess" id="dd3d53d6-0ccc-4e82-a1a5-ed93926853f0" configVersion="04077519cf33d249ac902f6f6014998700000000"/>
