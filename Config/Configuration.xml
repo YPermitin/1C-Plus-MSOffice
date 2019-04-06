@@ -140,7 +140,6 @@
 			<Language>Русский</Language>
 			<Subsystem>ПомощникРабтыMSOffice</Subsystem>
 			<CommonTemplate>ШаблонПустойБазыAccess</CommonTemplate>
-			<CommonModule>РаботаСAccessНаКлиенте</CommonModule>
 			<CommonModule>РаботаСAccessКлиентСервер</CommonModule>
 			<CommonModule>РаботаСAccessСервер</CommonModule>
 			<CommonModule>РаботаСAccessВызовСервера</CommonModule>

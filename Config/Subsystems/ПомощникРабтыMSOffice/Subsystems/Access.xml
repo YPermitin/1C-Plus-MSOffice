@@ -18,7 +18,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.ВыгрузкаДанныхВAccess</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.ВыгрузкаРезультатаКомпоновки</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonTemplate.ШаблонПустойБазыAccess</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.РаботаСAccessНаКлиенте</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">bbc78c47-3438-4c41-970f-b89d4184a5c9</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.РаботаСAccessКлиентСервер</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.РаботаСAccessСервер</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.РаботаСAccessВызовСервера</xr:Item>
