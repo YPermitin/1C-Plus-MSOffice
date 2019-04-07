@@ -11,17 +11,22 @@
 		<Metadata name="CommonModule.РаботаСAccessСлужебныйКлиентСервер.Module" id="fbfa09bc-4f69-4c29-970a-7d39d8fd0a5c.0" configVersion="7d346312b3244549bb8c130873dfc57500000000"/>
 		<Metadata name="CommonTemplate.ШаблонПустойБазыAccess" id="dd3d53d6-0ccc-4e82-a1a5-ed93926853f0" configVersion="c3a68c0ceebf4b4789581a696af7c94300000000"/>
 		<Metadata name="CommonTemplate.ШаблонПустойБазыAccess.Template" id="dd3d53d6-0ccc-4e82-a1a5-ed93926853f0.0" configVersion="2960e42518138849b8e518791be2d1d900000000"/>
-		<Metadata name="Configuration.ПомощникРаботыMSOffice" id="c9fbf222-ece8-453b-a154-f43a13f871ba" configVersion="187ae423a806574dac9208af2a8c701600000000"/>
+		<Metadata name="Configuration.ПомощникРаботыMSOffice" id="c9fbf222-ece8-453b-a154-f43a13f871ba" configVersion="daca09266ef77b4cbbc41e0dab0f2beb00000000"/>
 		<Metadata name="DataProcessor.ВыгрузкаДанныхВAccess" id="cd40328d-af38-4e82-a865-60696ca1d5c1" configVersion="b4cdafe66ae5af40bb466ab48ea2092900000000"/>
 		<Metadata name="DataProcessor.ВыгрузкаДанныхВAccess.Form.ВыгрузкаДанныхВAccess" id="44c871f0-930d-47f5-bd2c-55377f22baa1" configVersion="8ace8cf22b20e74a903ae276234ff43100000000"/>
 		<Metadata name="DataProcessor.ВыгрузкаДанныхВAccess.Form.ВыгрузкаДанныхВAccess.Form" id="44c871f0-930d-47f5-bd2c-55377f22baa1.0" configVersion="7f0bf3f6b0a38b46a07f929ebe0b628200000000"/>
 		<Metadata name="Language.Русский" id="c186a30e-eb50-439a-9b23-e7df54cd76c3" configVersion="b6a7d50bb6bf5a43904af559fd1b737c00000000"/>
 		<Metadata name="Report.ВыгрузкаРезультатаКомпоновки" id="89e7c8c8-7f35-41d2-b524-4c51b1121dd6" configVersion="42166558ed46624b96c622425986ec0300000000"/>
-		<Metadata name="Report.ВыгрузкаРезультатаКомпоновки.Form.ФормаОтчета" id="d5297edc-cd38-4610-ab07-eb54fa6c06b4" configVersion="af3a70b10be05b4fa8c298eed657850f00000000"/>
-		<Metadata name="Report.ВыгрузкаРезультатаКомпоновки.Form.ФормаОтчета.Form" id="d5297edc-cd38-4610-ab07-eb54fa6c06b4.0" configVersion="8f4ea1fad48d0348a1bb484539e3816900000000"/>
+		<Metadata name="Report.ВыгрузкаРезультатаКомпоновки.Form.ФормаОтчета" id="d5297edc-cd38-4610-ab07-eb54fa6c06b4" configVersion="49e2f3c4368eb245938eff0c8daf1da400000000"/>
+		<Metadata name="Report.ВыгрузкаРезультатаКомпоновки.Form.ФормаОтчета.Form" id="d5297edc-cd38-4610-ab07-eb54fa6c06b4.0" configVersion="4885d647925b5c44896876f0d59a1e5600000000"/>
 		<Metadata name="Report.ВыгрузкаРезультатаКомпоновки.Template.ОсновнаяСхемаКомпоновкиДанных" id="9825db2c-de21-4534-885d-63ac4b88b14e" configVersion="020f2a6289fa2b47aa286eae1087415200000000"/>
 		<Metadata name="Report.ВыгрузкаРезультатаКомпоновки.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="9825db2c-de21-4534-885d-63ac4b88b14e.0" configVersion="e7462dd98fb7034db6d76d542b95c79b00000000"/>
-		<Metadata name="Subsystem.ПомощникРабтыMSOffice" id="0f9469c1-f555-457c-bdb8-34989e867501" configVersion="d4cd146117c0de4e8dfecec8c5f9f03500000000"/>
+		<Metadata name="Subsystem.ПомощникРабтыMSOffice" id="0f9469c1-f555-457c-bdb8-34989e867501" configVersion="a25d7d541efde24fab4df14da7086bbc00000000"/>
 		<Metadata name="Subsystem.ПомощникРабтыMSOffice.Subsystem.Access" id="4fb60926-35fe-465d-8003-15798e275d56" configVersion="1b31207891f94b468e3d35e2ec6f9efb00000000"/>
+		<Metadata name="Subsystem.ПомощникРабтыMSOffice.Subsystem.Excel" id="f20eff93-7e06-4cc2-a69c-858adcac3dde" configVersion="9458ba7708df5848b9196a065fe7318300000000"/>
+		<Metadata name="Subsystem.ПомощникРабтыMSOffice.Subsystem.OneNote" id="f8c7e74b-a653-463c-870b-da9abcd58933" configVersion="797044814010614aa70cdd7bd9cf4e3200000000"/>
+		<Metadata name="Subsystem.ПомощникРабтыMSOffice.Subsystem.Outlook" id="bdc9d6bf-749f-4415-a268-ac12318f51f2" configVersion="900a645a8630c741bd9ecdc5b5bb434a00000000"/>
+		<Metadata name="Subsystem.ПомощникРабтыMSOffice.Subsystem.PowerPoint" id="59ff4bcc-7d4b-4785-837b-c6b7df13e785" configVersion="acb0a67c6e98f04fb237d5ce8ea28bcc00000000"/>
+		<Metadata name="Subsystem.ПомощникРабтыMSOffice.Subsystem.Word" id="8576f6d4-4181-4884-822a-5a9b20ea7563" configVersion="0ca1b559c69a6f43816114852710ee6a00000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
