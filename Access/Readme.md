@@ -1,6 +1,6 @@
-## Работа с Access
+# Работа с Access
 
-# Подготовка
+## Подготовка
 
 Для работы с базами Access необходимо на сервере 1С (в клиент-серверном режиме) или на компьютере, где запускается клиентское приложение (файловая база, толстый клиент), установить один из следующих компонентов:
 - [Полный пакет Microsoft Access](https://infostart.ru/redirect.php?url=aHR0cHM6Ly9wcm9kdWN0cy5vZmZpY2UuY29tL3J1LXJ1L2NvbXBhcmUtYWxsLW1pY3Jvc29mdC1vZmZpY2UtcHJvZHVjdHM/dGFiPTEmYW1wO09DSUQ9QUlENjc5NDcxX09PX0RMQ19RNHJlZnJlc2g=).
@@ -11,7 +11,7 @@
 
 Подробнее про лицензировние можно [прочитать здесь](https://infostart.ru/redirect.php?url=aHR0cHM6Ly93d3cucmlwdGlkZWhvc3RpbmcuY29tL2Jsb2cvdGFnL21pY3Jvc29mdC1saWNlbnNpbmcv), в том числе и в контексте MS Access.
 
-# Простые примеры
+## Простые примеры
 
 Чтение данных из базы Access из кода встроенного языка 1С:Предприятия можно выполнять следующим образом.
 ```bsl
@@ -101,7 +101,7 @@ Connection.Close();
 СоединениеКБазе = Неопределено;
 ```
 
-# Подсистема работы с Access
+## Подсистема работы с Access
 
 Описание работы с Access в конфигурации "Помощник работы MS Office" этого репозитория.
 
