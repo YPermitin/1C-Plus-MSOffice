@@ -17,12 +17,12 @@
 			<Content/>
 		</Properties>
 		<ChildObjects>
-			<Subsystem>Access</Subsystem>
-			<Subsystem>Outlook</Subsystem>
 			<Subsystem>Word</Subsystem>
 			<Subsystem>Excel</Subsystem>
 			<Subsystem>PowerPoint</Subsystem>
+			<Subsystem>Access</Subsystem>
 			<Subsystem>OneNote</Subsystem>
+			<Subsystem>Outlook</Subsystem>
 		</ChildObjects>
 	</Subsystem>
 </MetaDataObject>

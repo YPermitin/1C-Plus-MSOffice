@@ -144,8 +144,10 @@
 			<CommonModule>РаботаСAccessСервер</CommonModule>
 			<CommonModule>РаботаСAccessВызовСервера</CommonModule>
 			<CommonModule>РаботаСAccessСлужебныйКлиентСервер</CommonModule>
+			<CommonModule>РаботаСOutlookКлиент</CommonModule>
 			<Report>ВыгрузкаРезультатаКомпоновки</Report>
 			<DataProcessor>ВыгрузкаДанныхВAccess</DataProcessor>
+			<DataProcessor>РаботаСOutlook</DataProcessor>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

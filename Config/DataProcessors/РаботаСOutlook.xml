@@ -1,24 +1,34 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.7">
-	<Subsystem uuid="bdc9d6bf-749f-4415-a268-ac12318f51f2">
+	<DataProcessor uuid="8ffc2eb8-3c75-4633-bd1e-0a70a26a3eb7">
+		<InternalInfo>
+			<xr:GeneratedType name="DataProcessorObject.РаботаСOutlook" category="Object">
+				<xr:TypeId>2267953b-60c0-42b4-a0ad-53bd1d929cdc</xr:TypeId>
+				<xr:ValueId>c4386ac0-eecd-478a-a911-a98d55bd5a11</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DataProcessorManager.РаботаСOutlook" category="Manager">
+				<xr:TypeId>33634920-2671-424a-ac0c-d8a60fe57020</xr:TypeId>
+				<xr:ValueId>fc507076-c977-42af-be2f-85ca4be97f35</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
 		<Properties>
-			<Name>Outlook</Name>
+			<Name>РаботаСOutlook</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Outlook</v8:content>
+					<v8:content>Работа с Outlook</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
-			<IncludeHelpInContents>true</IncludeHelpInContents>
-			<IncludeInCommandInterface>true</IncludeInCommandInterface>
+			<UseStandardCommands>true</UseStandardCommands>
+			<DefaultForm>DataProcessor.РаботаСOutlook.Form.Форма</DefaultForm>
+			<AuxiliaryForm/>
+			<IncludeHelpInContents>false</IncludeHelpInContents>
+			<ExtendedPresentation/>
 			<Explanation/>
-			<Picture/>
-			<Content>
-				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.РаботаСOutlookКлиент</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.РаботаСOutlook</xr:Item>
-			</Content>
 		</Properties>
-		<ChildObjects/>
-	</Subsystem>
+		<ChildObjects>
+			<Form>Форма</Form>
+		</ChildObjects>
+	</DataProcessor>
 </MetaDataObject>
