@@ -33,7 +33,7 @@
 	Outlook = ПриложениеOutlook();
 	
 	Задача = Outlook.CreateItem(3);
-	Задача.Subject = "Название задачи";
+	Задача.Subject = Имя;
 	Задача.StartDate = Формат(Начало, "ДЛФ=DT");
 	Задача.Body = Содержимое;
 	
