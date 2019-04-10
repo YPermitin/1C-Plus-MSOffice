@@ -27,7 +27,6 @@ Command = Новый COMОбъект("ADODB.Command");
 Command.ActiveConnection = Connection;
 Command.CommandText = "Select * FROM Выгрузка_результата_компоновки";
 Command.CommandType = 1;
-RecordSet = Новый COMОбъект("ADODB.RecordSet");
 RecordSet = Command.Execute();
 
 // Считываем все поля и выводим пользователю
