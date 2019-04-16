@@ -351,4 +351,7 @@ Connection.Close();
 
 ```
 
-
+## Полезные материалы
+* [Типы данных Microsoft Access](https://docs.microsoft.com/ru-ru/sql/odbc/microsoft/microsoft-access-data-types?view=sql-server-2017)
+* [Field type reference - names and values for DDL, DAO, and ADOX](http://allenbrowne.com/ser-49.html)
+* [MS Access и 1С. Что, когда и зачем?](https://infostart.ru/public/1039512/)
